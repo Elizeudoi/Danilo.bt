@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yerl.org/ApVo3" group-title="Record"Record TV
- https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://yerl.org/ApVo3" group-title="Record",Record TV
 
-#EXTINF:-1 tvg-logo="https://yerl.org/oHJEf" group-title="Record"Record News
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://yerl.org/ApVo3" group-title="Record",Record News
 
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w538084700.m3u8
